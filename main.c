@@ -3,8 +3,6 @@
 #include "generalFunctions.h"
 #include "submatrixSearch.h"
 
-// Ron Lulwi 205857394
-
 int main(int argc, char* argv[])
 {
 	double threshold;
